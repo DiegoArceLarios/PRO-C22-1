@@ -1,2 +1,1 @@
-# PRO-C22-1
-hola
+# Plantilla-del-proyecto-C22
